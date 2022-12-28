@@ -24,6 +24,10 @@ var questions = [{
   {
     ques: "What is my favorite color? ",
     ans: "yellow"
+  },
+  {
+    ques: "Which is my favorite animal? ",
+    ans: "dog"
   }];
 
 function askQuestion(que, ans){
